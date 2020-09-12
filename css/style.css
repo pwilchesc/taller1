@@ -1,0 +1,31 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    text-align: center;
+}
+h1{
+    color: rgb(228, 177, 116);
+    size: 100px;
+}
+h2{
+    color: rgb(189, 37, 82);
+    size: 80px;
+}
+
+td{
+    border-bottom: 1px solid #ddd;
+    width: 300px;
+}
+tr{
+    border-bottom: 1px solid #ddd;
+}
+img{
+    height: 150px;
+}
